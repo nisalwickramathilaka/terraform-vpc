@@ -1,11 +1,11 @@
 variable "access_key" {
   type        = string
-  default     = "AKIA5FTZDMNLEFIX5LPJ"
+  default     = "********"
   description = "Access key of VPC"
 }
 variable "secret_key" {
   type        = string
-  default     = "YtC2xTwPj1+nYLIY8fCpavntkV69JAVenXv+JLzu"
+  default     = "*********"
   description = "Secret key of VPC"
 }
 variable "region" {
